@@ -1,1 +1,1 @@
-npm install and npm start to run backend in order to use vies-frontend
+`npm install` and `npm start` to run backend in order to use `vies-frontend`
